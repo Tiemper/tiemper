@@ -36,19 +36,9 @@
     </tr>
   </table>
 
-## What I'm Doing
-
-- 🔭 Working on ChatCool (Bot)
-- 🌱 Learning Node.js & more
-- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
-
-Support ChatCool on KoFi:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
-
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/tiemper"><img src="https://skillicons.dev/icons?i=vscode,replit,github,js,python,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
