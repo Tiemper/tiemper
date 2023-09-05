@@ -38,7 +38,7 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/tiemper"><img src="https://skillicons.dev/icons?i=vscode,replit,github,js,python,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/tiemper"><img src="https://skillicons.dev/icons?i=python,js"> </a> </p>
 
 ## My Stats:
 <p align="center">
