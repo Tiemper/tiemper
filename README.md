@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20Github" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/Tiemper">Tiemper</a></h3>
